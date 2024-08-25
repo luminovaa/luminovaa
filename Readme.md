@@ -16,4 +16,4 @@
     </p>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luminovaa&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?luminovaa=&theme=tokyonight&hide_border=true&locale=id)](https://git.io/streak-stats)
