@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=I'm+Luminova+We(e)b+Programmer" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Luminova+We(e)b+Programmer" alt="Typing SVG" />
 </div>
 
 # 💫 About Me:
@@ -22,11 +22,17 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=luminovaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=luminovaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+<div align="center">
+  <img src="https://github.com/luminovaa/luminovaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=luminovaa&icon=3&color=8)](https://visitcount.itsvg.in)
 
