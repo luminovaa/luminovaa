@@ -13,4 +13,4 @@
         <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
     </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminovaa&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminovaa)](https://github.com/anuraghazra/github-readme-stats)
