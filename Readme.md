@@ -1,4 +1,3 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 <div>
     <p>
         <a href="https://www.x.com/mokkapps">
@@ -17,3 +16,7 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luminovaa&theme=tokyonight&hide_border=true&locale=id)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luminovaa&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luminovaa)](https://github.com/anuraghazra/github-readme-stats)
