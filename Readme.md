@@ -6,6 +6,11 @@
 <div align="center">I'm a passionate web programmer with a knack for turning ideas into interactive, user-friendly websites and applications. My expertise spans front-end and back-end technologies, allowing me to create seamless digital experiences from start to finish. When I'm not coding, you'll find me exploring new web technologies, contributing to open-source projects, or sharing my knowledge through my tech blog. I believe in clean, efficient code and staying up-to-date with industry best practices.<br>Let's build something amazing together!  
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Learning-Web%20Development-blue" alt="Learning Web Development"/>
+  <img src="https://img.shields.io/badge/Loves-Coding-red" alt="Loves Coding"/>
+</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fatkhul.karim.338) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fatkhulkariiim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammad-fatkhul-karim-931710295) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karim_064) 
@@ -30,9 +35,8 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=luminovaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
+
 <div align="center">
-  <img src="https://github.com/luminovaa/luminovaa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://visitcount.itsvg.in/api?id=luminovaa&icon=3&color=8" alt="Visit Count"/>
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=luminovaa&icon=3&color=8)](https://visitcount.itsvg.in)
 
