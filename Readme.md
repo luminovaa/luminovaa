@@ -55,25 +55,26 @@
 <br/>
 
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luminovaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminovaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminovaa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luminovaa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=luminovaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
+## ?? GitHub Metrics
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=luminovaa&icon=3&color=8" alt="Visit Count"/>
-</div>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=luminovaa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminovaa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminovaa&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
+  <br/>
+  <img src="https://visitcount.itsvg.in/api?id=luminovaa&icon=0&color=0" alt="Visit Count"/>
+</div>
