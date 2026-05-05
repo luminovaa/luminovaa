@@ -1,15 +1,17 @@
-<div align="center">
-  <h1 style="border-bottom: none;">Hi, I'm Luminova ⚡</h1>
-  <p><strong>Web Developer & Tech Enthusiast</strong></p>
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Luminova&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%26%20Tech%20Enthusiast&descAlignY=60&descAlign=62" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=I'm+a+Web+Programmer;Building+Digital+Experiences;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-> I'm a passionate web programmer focused on building clean, interactive, and user-friendly applications. With expertise across the full stack, I enjoy turning complex problems into elegant digital experiences. I value clean code, continuous learning, and contributing to the open-source community.
-> 
-> Let's build something amazing together!
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+</div>
+
+> 🚀 I'm a passionate web programmer focused on building clean, interactive, and user-friendly applications. With expertise across the full stack, I enjoy turning complex problems into elegant digital experiences. I value clean code, continuous learning, and contributing to the open-source community. Let's build something amazing together! ✨
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## ðŸ› ï¸ Tech Stack & Tools
 
 <div align="center">
   <table>
@@ -78,3 +80,4 @@
   <br/>
   <img src="https://visitcount.itsvg.in/api?id=luminovaa&icon=0&color=0" alt="Visit Count"/>
 </div>
+
