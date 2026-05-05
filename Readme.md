@@ -32,25 +32,40 @@
 
 
 
-## 📊 GitHub Metrics
+## 🏆 GitHub Trophies & Metrics
+
+<div align="center">
+  <a href="https://github-com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=luminovaa&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=luminovaa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luminovaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminovaa&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminovaa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminovaa&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luminovaa&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
+</div>
 
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=luminovaa&icon=0&color=0" alt="Visit Count"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luminovaa&radius=16&theme=radical&area=true&order=5" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
