@@ -1,6 +1,13 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Luminova+We(e)b+Programmer" alt="Typing SVG" />
-</div> 
+  <h1 style="border-bottom: none;">Hi, I'm Luminova ⚡</h1>
+  <p><strong>Web Developer & Tech Enthusiast</strong></p>
+</div>
+
+> I'm a passionate web programmer focused on building clean, interactive, and user-friendly applications. With expertise across the full stack, I enjoy turning complex problems into elegant digital experiences. I value clean code, continuous learning, and contributing to the open-source community.
+> 
+> Let's build something amazing together!
+
+<br/>
 
 # 💫 About Me:
 <div align="center">I'm a passionate web programmer with a knack for turning ideas into interactive, user-friendly websites and applications. My expertise spans front-end and back-end technologies, allowing me to create seamless digital experiences from start to finish. When I'm not coding, you'll find me exploring new web technologies, contributing to open-source projects, or sharing my knowledge through my tech blog. I believe in clean, efficient code and staying up-to-date with industry best practices.<br>Let's build something amazing together!  
