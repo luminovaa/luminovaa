@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
 </div>
 
+
 > 🚀 I'm a passionate web programmer focused on building clean, interactive, and user-friendly applications. With expertise across the full stack, I enjoy turning complex problems into elegant digital experiences. I value clean code, continuous learning, and contributing to the open-source community. Let's build something amazing together! ✨
 
 <br/>
