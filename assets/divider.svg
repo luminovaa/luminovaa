@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36">
+  <defs>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8fb8" stop-opacity="0"></stop>
+      <stop offset="0.5" stop-color="#f472b6"></stop>
+      <stop offset="1" stop-color="#ff8fb8" stop-opacity="0"></stop>
+    </linearGradient>
+    <filter id="db" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.5"></feGaussianBlur></filter>
+  </defs>
+  <path d="M30,18 H1170" stroke="url(#dg)" stroke-width="1.6" fill="none"></path>
+  <circle r="4.5" fill="#ffd1dc" filter="url(#db)">
+    
+  </circle>
+  <g transform="translate(600,18)">
+    <g>
+      
+      <ellipse rx="5" ry="2.5" cx="5" fill="#ffb3c8"></ellipse>
+      <ellipse rx="5" ry="2.5" cx="5" fill="#ffd1dc" transform="rotate(120)"></ellipse>
+      <ellipse rx="5" ry="2.5" cx="5" fill="#ffb3c8" transform="rotate(240)"></ellipse>
+      <circle r="1.8" fill="#f472b6"></circle>
+    </g>
+  </g>
+</svg>

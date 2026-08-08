@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" font-family="Georgia, &#39;Times New Roman&#39;, serif">
+  <defs>
+    <linearGradient id="fsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#180a14"></stop>
+      <stop offset="0.55" stop-color="#2b1020"></stop>
+      <stop offset="1" stop-color="#6b2447"></stop>
+    </linearGradient>
+    <g id="fl">
+      <ellipse rx="6" ry="3.2" cx="7" fill="#ffd1dc"></ellipse>
+      <ellipse rx="6" ry="3.2" cx="7" fill="#ffb3c8" transform="rotate(72)"></ellipse>
+      <ellipse rx="6" ry="3.2" cx="7" fill="#ffd1dc" transform="rotate(144)"></ellipse>
+      <ellipse rx="6" ry="3.2" cx="7" fill="#ffb3c8" transform="rotate(216)"></ellipse>
+      <ellipse rx="6" ry="3.2" cx="7" fill="#ffd1dc" transform="rotate(288)"></ellipse>
+      <circle r="2.2" fill="#f472b6"></circle>
+    </g>
+  </defs>
+  <rect width="1200" height="210" fill="url(#fsky)"></rect>
+  <g fill="#ffe6ee">
+    <circle cx="160" cy="46" r="1.5"></circle>
+    <circle cx="400" cy="30" r="1.2"></circle>
+    <circle cx="640" cy="52" r="1.7"></circle>
+    <circle cx="880" cy="34" r="1.3"></circle>
+    <circle cx="1080" cy="56" r="1.5"></circle>
+  </g>
+  <use href="#fl" transform="translate(90,150) scale(1.1) rotate(20)"></use>
+  <use href="#fl" transform="translate(1110,142) scale(1.2) rotate(60)"></use>
+  <use href="#fl" transform="translate(1060,168) scale(0.8) rotate(100)"></use>
+  <path d="M0,168 Q250,142 520,164 T1200,158 L1200,210 L0,210 Z" fill="#4a1832" opacity="0.9"></path>
+  <path d="M0,186 Q350,162 700,184 T1200,178 L1200,210 L0,210 Z" fill="#12060e"></path>
+  <text x="600" y="94" text-anchor="middle" font-size="27" letter-spacing="3" fill="#ffd1dc">Thanks for stopping by</text>
+  <text x="600" y="130" text-anchor="middle" font-size="17" letter-spacing="5" fill="#ff8fb8" opacity="0.9">またね 🌸</text>
+  <g fill="#ffb3c8">
+    <g><ellipse rx="6" ry="3" opacity="0.75"></ellipse></g>
+    <g><ellipse rx="5.5" ry="2.8" opacity="0.65"></ellipse></g>
+    <g><ellipse rx="6" ry="3" opacity="0.75"></ellipse></g>
+  </g>
+</svg>
